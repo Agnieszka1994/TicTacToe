@@ -1,7 +1,8 @@
 # Tic Tac Toe
 Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. 
 
-The credential must be provided following the below pattern: 
+In order to place your mark, you need to provide 2 credentials, column and row, following the below pattern: 
+
 ```
 (1, 3) (2, 3) (3, 3)
 (1, 2) (2, 2) (3, 2)
