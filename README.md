@@ -1,7 +1,7 @@
 # Tic Tac Toe
-Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. \
+Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. 
 
-The credential must be provided following the below pattern: \
+The credential must be provided following the below pattern: 
 ```
 (1, 3) (2, 3) (3, 3)
 (1, 2) (2, 2) (3, 2)
@@ -13,7 +13,7 @@ The credential must be provided following the below pattern: \
 ```
 TicTacToe> python main.py
 ```
-**The program executes the below steps:** \
+**The program executes the below steps:** 
 
 - Prints an empty field at the beginning of the game.
 - Creates a game loop where the program asks the user to enter the cell coordinates, analyzes the move for correctness and shows a field with the changes if everything is ok.
